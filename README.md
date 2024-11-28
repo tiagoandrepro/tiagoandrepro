@@ -10,9 +10,11 @@
 - Vue.js  
 - Laravel  
 - Python  
-- PHP
-- MySQL
-- PostgreSQL
+- PHP  
+- MySQL  
+- PostgreSQL  
+- Redis  
+- RabbitMQ  
 
 📈 **Explorando**: machine learning, gestão de dados em larga escala e integração de CRMs.  
 🚴‍♂️ **Hobbies**: Amante de atividades ao ar livre, como pedalar e praticar crossfit.  
